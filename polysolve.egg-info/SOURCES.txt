@@ -2,6 +2,7 @@ README.md
 pyproject.toml
 polysolve/__init__.py
 polysolve/polysolve.py
+polysolve/quadexm.py
 polysolve.egg-info/PKG-INFO
 polysolve.egg-info/SOURCES.txt
 polysolve.egg-info/dependency_links.txt

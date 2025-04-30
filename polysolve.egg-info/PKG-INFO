@@ -1,4 +1,4 @@
-Metadata-Version: 2.4
+Metadata-Version: 2.1
 Name: polysolve
 Version: 0.1
 Author-email: Valeria Losasso <valeria.losasso@stfc.ac.uk>
@@ -9,7 +9,9 @@ Keywords: keyword
 Classifier: classifier
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
-Requires-Dist: numpy
+Provides-Extra: docs
 
 # polysolve
 Polysolve
+
+install: pip install git+https://github.com/<owner_name>/polysolve.git

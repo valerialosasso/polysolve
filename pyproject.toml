@@ -19,5 +19,10 @@ dynamic = ["version"]
 Homepage="https://github.com/valerialosasso/polysolve"
 Repository="https://github.com/valerialosasso/polysolve.git"
 
+[project.optional-dependencies] 
+docs=["sphinx", 
+"sphinx_rtd_theme", 
+"sphinx_autodoc_typehints"]
+
 [tool.setuptools.dynamic]
 version = {attr = "polysolve.__version__"}
