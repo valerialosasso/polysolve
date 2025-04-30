@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: polysolve
+Version: 0.1
+Author-email: Valeria Losasso <valeria.losasso@stfc.ac.uk>
+License: BSD-3-Clause
+Project-URL: Homepage, https://github.com/valerialosasso/polysolve
+Project-URL: Repository, https://github.com/valerialosasso/polysolve.git
+Keywords: keyword
+Classifier: classifier
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+
+# polysolve
+Polysolve
